@@ -1053,7 +1053,6 @@ Being a good organizer is knowing when to step in, and when to hang back.
 If unsure, bias on the side of hanging back.
 
 Checkout the guidelines for [Answering Questions](#answering-questions).
->>>>>>> 8f5d877... cohort 4: [project time] add initial refactoring
 
 Every set of freeform time for projects culminates in a demo by the end of the
 day. See the [demo section](#demos) for more details, including what hackers are encouraged to have finished.
@@ -1061,9 +1060,18 @@ day. See the [demo section](#demos) for more details, including what hackers are
 ### What NOT to do
 
 - drive the conversation
+- just cause you notice sthe hackers doing something in a way that you wouldn't
+  do don't just start telling them they're wrong. Maybe you're wrong or
+  maybe you're both wrong.
 
 ### What To Do
 
+- Checkout the guidelines for [Answering Questions](#answering-questions).
+- let the hackers drive the conversation
+- make sure that each person is challenging themselves to their personal limits.
+- ask for feedback from the hackers constantly to see what things are breaking
+  especially when people aren't realizing.
+- remind the hackers of the link collection time as well as demo time
 
 
 ## Scoping and concept
