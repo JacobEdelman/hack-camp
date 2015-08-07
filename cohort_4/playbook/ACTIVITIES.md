@@ -975,7 +975,7 @@ Before kicking off demos, we'll want to collect links to all of the web projects
 from the hackers in the Slack. To do just, just send out a message along the
 lines of the following:
 
-    3:20 PM <zrl> @channel: Hey all! The time has come to collect links to your
+    3:40 PM <zrl> @channel: Hey all! The time has come to collect links to your
                   projects. If you have a project that works on the web, please
                   just paste a link to it here. Don't hesitate to ask us for
                   help doing that!
@@ -1035,12 +1035,36 @@ shouted out after the demo.
 # Freeform Projects
 
 This assumes the hackers are already in groups and have decided what to work on.
-If they have not yet, refer to the [freeform projects](#freeform-projects)
-section.
+
+If they have not yet, refer to [project formation](#project-formation).
+
+## Scheduling
+
+- make sure to collect links 10 minutes before demos at around 3:50.
+- make sure you remind people of what time the demos is. It is very easy to forget to mention the time.
+
+## Role Of The Organizer
+
+Walking the rope of how to be effecive during this time period can be hard. On one hand, you want to actively help hackers. At the same time, you don't want to hover and so you stay back and let the hackers do their thing and work indepenently.
+
+You want them to ask questions abut at the same time you don't want them to ask you a question when they never searched for it themself yet.
+
+Being a good organizer is knowing when to step in, and when to hang back.
+If unsure, bias on the side of hanging back.
+
+Checkout the guidelines for [Answering Questions](#answering-questions).
+>>>>>>> 8f5d877... cohort 4: [project time] add initial refactoring
 
 Every set of freeform time for projects culminates in a demo by the end of the
-day. See the [demo section](#demos) for more details, including what hackers are
-encouraged to have finished.
+day. See the [demo section](#demos) for more details, including what hackers are encouraged to have finished.
+
+### What NOT to do
+
+- drive the conversation
+
+### What To Do
+
+
 
 ## Scoping and concept
 
