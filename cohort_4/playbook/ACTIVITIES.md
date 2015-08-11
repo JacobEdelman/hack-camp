@@ -1040,43 +1040,51 @@ If they have not yet, refer to [project formation](#project-formation).
 
 ## Scheduling
 
-- make sure to collect links 10 minutes before demos at around 3:50.
-- make sure you remind people of what time the demos is. It is very easy to forget to mention the time.
+- make sure to collect links 10 minutes before demos at around 3:50. make sure
+- you remind people of what time the demos is. It is very easy to forget to
+  mention the time.
 
 ## Role Of The Organizer
 
-Walking the rope of how to be effecive during this time period can be hard. On one hand, you want to actively help hackers. At the same time, you don't want to hover and so you stay back and let the hackers do their thing and work indepenently.
+Walking the rope of how to be effective during this time period can be hard. On
+one hand, you want to actively help hackers. At the same time, you don't want to
+hover and so you stay back and let the hackers do their thing and work
+independently.
 
-You want them to ask questions abut at the same time you don't want them to ask you a question when they never searched for it themself yet.
+You want them to ask questions abut at the same time you don't want them to ask
+you a question when they never searched for it themself yet.
 
-Being a good organizer is knowing when to step in, and when to hang back.
-If unsure, bias on the side of hanging back.
+Being a good organizer is knowing when to step in, and when to hang back. If
+unsure, bias on the side of hanging back.
 
 Checkout the guidelines for [Answering Questions](#answering-questions).
 
 Every set of freeform time for projects culminates in a demo by the end of the
-day. See the [demo section](#demos) for more details, including what hackers are encouraged to have finished.
+day. See the [demo section](#demos) for more details, including what hackers are
+encouraged to have finished.
 
 ### What NOT to do
 
-- drive the conversation
-- just cause you notice sthe hackers doing something in a way that you wouldn't
-  do don't just start telling them they're wrong. Maybe you're wrong or
+- DO NOT drive the conversation
+- DO NOT just cause you notice the hackers doing something in a way that you
+  wouldn't do don't just start telling them they're wrong. Maybe you're wrong or
   maybe you're both wrong.
 
 ### What To Do
 
-- Checkout the guidelines for [Answering Questions](#answering-questions).
-- let the hackers drive the conversation
-- make sure that each person is challenging themselves to their personal limits.
-- ask for feedback from the hackers constantly to see what things are breaking
-  especially when people aren't realizing.
-- remind the hackers of the link collection time as well as demo time
+- DO checkout the guidelines for [Answering Questions](#answering-questions).
+- DO let the hackers drive the conversation
+- DO make sure that each person is challenging themselves to their personal
+  limits.
+- DO ask for feedback from the hackers constantly to see what things are
+  breaking especially when people aren't realizing.
+- DO remind the hackers of the link collection time as well as demo time
 
 
 ## Scoping and concept
 
-- Sometimes hackers will become too focused on a particular part of their project.
+- Sometimes hackers will become too focused on a particular part of their
+  project.
   - Make sure to remind them of their project's scope.
   - It is in their better interest to not focus on minor details because they
     have to finish before demos. They can continue working on details later. A
