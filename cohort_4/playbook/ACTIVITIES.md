@@ -158,7 +158,7 @@ is comfortable for you.
   mistake. I get it, this type of joking around is very common, a lot of people
   do it, and no one really means it.
 - That being said however, any of these jokes have a *very real* and very
-  consequence consequence and can make lots of people feel *very* *very*
+  consequence and can make lots of people feel *very* *very*
   uncomfortable and sad.
 - So I want to ask for your help. If you hear someone saying anything that you
   you think could be interpreted as discriminatory, kindly let them know.
@@ -172,6 +172,9 @@ is comfortable for you.
 - _{Call on each person that raises their hands to share and echo back what they
   said to everyone else. If no one else has anything else to say, go onto the
   following}_
+- _{The next section on breaking up into groups for a discussion may not make
+    sense in every environment. Use your discrection on whether you want to
+    do that or not. Give them a benefit of the doubt, they might surprise you!}_
 - Break up into groups of 3-4 and think of ways in which we can make Hack Camp
   a safer space. We'll give you 8 minutes or so to discuss and we'll share back
   what we come up with afterwards. I know this wasn't on our schedule but this
