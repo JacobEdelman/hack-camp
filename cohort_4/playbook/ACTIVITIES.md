@@ -148,7 +148,7 @@ is comfortable for you.
     really bad, this can be very impactful.
    }_
 - We want the Hack Camp to be nothing like that.
-- I don't want anyone to feel like the way that I did
+- I don't want anyone to feel like the way that I did.
 - We want this environment to be awesome and a place where I and everyone else
   can be myself.
 - Therefore, any spoken language behavior that can be interpreted as
@@ -158,9 +158,9 @@ is comfortable for you.
 - We don't want to shame you for saying that. I know that it was probably a
   mistake. I get it, this type of joking around is very common, a lot of people
   do it, and no one really means it.
-- That being said however, any of these jokes have a *very real* and very
-  consequence and can make lots of people feel *very* *very*
-  uncomfortable and sad.
+- That being said, any of these jokes have *very real* and *very serious*
+  consequences and can make lots of people feel *very, very* uncomfortable and
+  sad.
 - So I want to ask for your help. If you hear someone saying anything that you
   you think could be interpreted as discriminatory, kindly let them know.
 - You might say to them "Hey Jonathan, I noticed that when you said PHRASE_X,
@@ -171,8 +171,8 @@ is comfortable for you.
 - I'm not the only person who sets the culture here. Each of you do as well. So
   I want to open this up for a discussion. Do you guys have any ideas for things
   we may try to do / things to avoid to create an awesome culture here?
-- Lets make hack camp an experience that is amazing for each and every one
-  of you. I want this to be an environment where everyone, including me, can be
+- Lets make Hack Camp an experience that is amazing for each and every one of
+  you. I want this to be an environment where everyone, including me, can be
   themselves, and where everyone, including people like me, can be welcome here
   as well.
 
