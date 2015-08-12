@@ -35,6 +35,7 @@
 - [Workshops](#workshops)
     - [General Guidelines](#general-guidelines)
         - [Breaks](#breaks)
+        - [Handling Disruptions](#handling-disruptions)
     - [[Portfolio](workshops/portfolio)](#portfolioworkshopsportfolio)
         - [Prerequisites](#prerequisites)
         - [Running it](#running-it)
@@ -825,6 +826,58 @@ doing one of the following:
   take regular breaks. At Hack Camp, feel free to take a break whenever, we
   don't want to baby you so we won't remind you.
 - Something else that works best for you.
+
+### Handling Disruptions
+
+Note that the below is how Jonathan handles disruptions and may be fairly
+specific to Jonathan.
+
+General Tips:
+
+- you do NOT want to
+  - seem or get defensive
+    - this makes you feel weak
+  - exert your authority
+    - this also makes you feel weak
+  - seem frustrated
+    - - this also makes you feel weak
+  - ^ These four things are not just specific to Jonathan, but to many people.
+- you want to
+  - be playful and witty
+  - probably other things as well but I can't think of any
+
+#### "...But I don't want to learn" burst out.
+
+Say you introduce a new workshop and someone says:
+
+> But I don't want to learn.
+
+Perhaps they said this as a joke, perhaps as a joke with a truth behind it.
+
+Either way, you could counter with some of the:
+
+- "Xavier, sit down!" Only say this if it is completely out of charachter for you
+  because in order to be successful, they must detect that it is said in a
+  joking manner.
+- "Thanks for sharing Xavier. Would you like a gold star?" and then give a
+  very sarcastic face: ![](img/sarcastic_face.jpg)
+- "Cool story bro. Is there anything else that you'd like to share?"
+- "Thanks for sharing Xavier. Let's give him a round of applause"
+- "Awww, thanks for sharing Xavier. Shh... hear that? i'm playing the world's
+  saddest song on the world's smallest violin (mimes playing small violin)
+- "Hmm, it seems that wise Xavier is too cool for school, and would drool in a
+  in a duel..."
+
+The rest of the class will chuckle, think you are cool, no one's feelings are
+hurt because the disrupter won't feel bad they're being disrupted, and you get
+to move on quickly.
+
+Go actually checkin with the student to see how they are actually feeling.
+
+- "Hey, I was just messing with you earlier, I just want to checkin to see if
+   what you're working on seems relevant."
+
+#### ""
 
 ## [Portfolio](workshops/portfolio)
 
