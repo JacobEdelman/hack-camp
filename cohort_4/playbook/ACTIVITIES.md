@@ -841,10 +841,14 @@ General Tips:
     - this also makes you feel weak
   - seem frustrated
     - - this also makes you feel weak
-  - ^ These four things are not just specific to Jonathan, but to many people.
+  - ^ These 3 things are not just specific to Jonathan, but to many people.
 - you want to
   - be playful and witty
   - probably other things as well but I can't think of any
+
+#### Examples of what not to do
+
+- 
 
 #### "...But I don't want to learn" burst out.
 
