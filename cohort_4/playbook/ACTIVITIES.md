@@ -123,7 +123,7 @@ to say as much or as little of it based on what you feel is necessary and what
 is comfortable for you.
 
 - Can I get everyone's attention please
-- I noticed earlier that someone posted the phrase say "X person is Gay"
+- I noticed earlier that someone posted the phrase say "X person is gay"
 - I know that you probably meant it as a joke
 - what you many not recognize is that that statement sets the precendent in this
   environment that
@@ -848,7 +848,7 @@ General Tips:
 
 #### Examples of what not to do
 
-- 
+-
 
 #### "...But I don't want to learn" burst out.
 
