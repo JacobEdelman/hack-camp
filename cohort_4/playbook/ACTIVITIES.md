@@ -167,26 +167,14 @@ is comfortable for you.
   some people including myself could be offended by that. I know that you
   probably didn't mean it and I don't want to make you feel bad either. Just
   notice that you said it and perhaps try avoiding saying it in the future."
+- _{The bullet point is very much optional:}_
 - I'm not the only person who sets the culture here. Each of you do as well. So
   I want to open this up for a discussion. Do you guys have any ideas for things
   we may try to do / things to avoid to create an awesome culture here?
-- _{Call on each person that raises their hands to share and echo back what they
-  said to everyone else. If no one else has anything else to say, go onto the
-  following}_
-- _{The next section on breaking up into groups for a discussion may not make
-    sense in every environment. Use your discrection on whether you want to
-    do that or not. Give them a benefit of the doubt, they might surprise you!}_
-- Break up into groups of 3-4 and think of ways in which we can make Hack Camp
-  a safer space. We'll give you 8 minutes or so to discuss and we'll share back
-  what we come up with afterwards. I know this wasn't on our schedule but this
-  is really important to our culture.
-- _{Give them a 2 minute and 1 minute warning}_
-- _{Call on groups to share back the response}_
 - Lets make hack camp an experience that is amazing for each and every one
   of you. I want this to be an environment where everyone, including me, can be
   themselves, and where everyone, including people like me, can be welcome here
   as well.
-- Let's do a Hack Cheer!
 
 ### Delivery notes
 
