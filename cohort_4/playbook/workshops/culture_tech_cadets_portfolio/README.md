@@ -398,18 +398,22 @@ results in this
 
 > ![](img/w3_links_try.png)
 
-and I notice that if I click on "Visit our HTML tutorial", it takes me to a different page.
+and I notice that if I click on "Visit our HTML tutorial", it takes me to a
+different page.
 
-So now what you could be thinking that
+So everything except
 
-```html
-<p><a href="http://www.w3schools.com/html/">Visit our HTML tutorial</a></p>
-```
+> ```html
+> <p><a href="http://www.w3schools.com/html/">Visit our HTML tutorial</a></p>
+> ```
+
+I've seen before in my own code, so therefore the above line is what makes the
+link.
 
 I type this into the bottom of my own code to see what happens:
 
-(I used the original code from Dash in this example so that it was more clear
-where I added the new piece of code.)
+(In the example below, I added the new line of code to the original example from
+Dash)
 
 ```html
 <!DOCTYPE html>
@@ -457,8 +461,18 @@ Hey it works!
 
 When I click `Visit our HTML tutorial`, it takes me to a different page.
 
+Can you try changing the code so that the link says: `Facebook` and redirects
+the page to `https://www.facebook.com/4`?
+
+Here's the solution:
+
+```
+<p><a href="https://www.facebook.com/4">Facebook</a></p>
+```
+
 Spend a couple minutes talking with your partner how you think that this works.
 If you get stuck, as a facilitator!
+
 
 ## Recap!
 
