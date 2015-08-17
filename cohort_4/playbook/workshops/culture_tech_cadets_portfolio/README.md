@@ -482,3 +482,9 @@ You have successfully learned
 - the basics of how to discover something you didn't know with Google
 
 Go off on your own and continue making this website into your own!
+
+## Feedback
+
+Please help us improve this workshop by giving us feedback
+[here in this form](https://docs.google.com/forms/d/1lZdX7q_AVQorog1KqwgZ66xp5-UP_I0-zN2lT9n82Ng/viewform)!
+We love constructive feedback so don't worry about being harsh!
